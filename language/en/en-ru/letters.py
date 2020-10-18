@@ -1,6 +1,7 @@
 __name_pack__ = "en-ru"
+__hieroglyphs__ = False
 
-litters = {
+letters = {
 	"shch":"щ", "ts":"ц", "ch":"ч", "yu":"ю",
 	"kh":"х", "sh":"ш", "ya":"я", "zh":"ж", 
 	"а":"a", "r":"р", "b":"б", "c":"с",

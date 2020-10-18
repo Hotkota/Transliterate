@@ -1,6 +1,6 @@
 __lang_name__ = "en"
 
-litters = [
+letters = [
 	"a", "b", "c", "d",
 	"e", "f", "g", "h",
 	"i", "j", "k", "l",
